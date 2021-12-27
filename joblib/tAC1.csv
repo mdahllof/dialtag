@@ -1,2 +1,0 @@
-classifier,features,label,comment
-tAC1.joblib ,tAC_feats.csv ,Mlp13119,"MLPClassifier, (13, 11, 9), 65 books, 80000 instances, 800 features. 2021-08-30."
