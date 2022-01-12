@@ -1,2 +1,2 @@
 classifier,features,label,comment
-tAB1.joblib,tAB_feats.csv,Mlp131109,"MLPClassifier, (13, 11, 9), 90 books, 80000 instances, 800 features. 2022-01-10."
+tAC2.joblib,tAC_feats.csv,Mlp151515,"MLPClassifier, (15, 15, 15), 213 books, 80000 instances, 800 features. 2022-01-12."
