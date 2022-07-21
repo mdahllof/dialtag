@@ -1,2 +1,2 @@
 classifier,features,label,comment
-tAC2.joblib,tAC_feats.csv,Mlp151515,"MLPClassifier, (15, 15, 15), 210 books, 80000 instances, 800 features. scikit-learn 1.1.1. 2022-07-21."
+tAC2v2.joblib,tAC_feats.csv,Mlp151515,"MLPClassifier, (15, 15, 15), 210 books, 80000 instances, 800 features. scikit-learn 1.1.1. 2022-07-21."
