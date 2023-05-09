@@ -1,0 +1,2 @@
+classifier,features,label,comment
+tAC1v4.joblib,tACv4_feats.csv,Mlp131109,"MLPClassifier, (13, 11, 9), 234 books, 90000 instances, 800 features. stanza 1.4.2. scikit-learn 1.2.2. 2023-05-09."
